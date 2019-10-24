@@ -1,7 +1,7 @@
 public class Viacheslav_Hladkovskyi_easy_1 {
     public static void main( String[] args )
     {
-        String s = "Today is the happiest day of my life";
+        String s = "hello world yay";
         String[] word = s.split( " " );
         String rts = " ";
 
